@@ -1,0 +1,1485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:asgard="http://asgard.jrc.it" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDACS RSS information</title>
+    <link>http://www.gdacs.org</link>
+    <description>Near real-time alerts about natural disaster with a potential humanitarian impact</description>
+    <managingEditor>tom.de-groeve@jrc.ec.europa.eu (Tom De Groeve)</managingEditor>
+    <!--Records number 42-->
+    <!--Start 12/30/2015 5:39:31 AM-->
+    <!--=Start 12/30/2015 5:39:31 AMEND - 12/30/2015 5:39:31 AM-->
+    <webMaster>tom.de-groeve@jrc.ec.europa.eu (Tom De Groeve)</webMaster>
+    <pubDate>Wed, 30 Dec 2015 04:39:31 GMT</pubDate>
+    <atom:link href="http://www.gdacs.org:80/rss.aspx?profile=ARCHIVE" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green earthquake alert (Magnitude 5M, Depth:88.44km) in Guatemala 30/12/2015 03:25 UTC, 6709116 people within 100km.</title>
+      <description>On 12/30/2015 3:25:35 AM, an earthquake occurred in Guatemala potentially affecting 6709116 people within 100km. The earthquake had Magnitude 5M, Depth:88.44km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113684_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077407</link>
+      <pubDate>Wed, 30 Dec 2015 03:25:35 GMT</pubDate>
+      <gdacs:fromdate>Wed, 30 Dec 2015 03:25:35 GMT</gdacs:fromdate>
+      <gdacs:todate>Wed, 30 Dec 2015 03:25:35 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077407</guid>
+      <geo:Point>
+        <geo:lat>14.1687</geo:lat>
+        <geo:long>-91.0902</geo:long>
+      </geo:Point>
+      <georss:point>14.1687 -91.0902</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077407</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077407</gdacs:eventid>
+      <gdacs:episodeid>1113684</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5">Magnitude 5M, Depth:88.44km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="6709116">6709116 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Guatemala</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5M, Depth:10km) in Southern East Pacific Rise 30/12/2015 02:58 UTC, No people within 100km.</title>
+      <description>On 12/30/2015 2:58:35 AM, an earthquake occurred in Southern East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 5M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113677_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077404</link>
+      <pubDate>Wed, 30 Dec 2015 02:58:35 GMT</pubDate>
+      <gdacs:fromdate>Wed, 30 Dec 2015 02:58:35 GMT</gdacs:fromdate>
+      <gdacs:todate>Wed, 30 Dec 2015 02:58:35 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077404</guid>
+      <geo:Point>
+        <geo:lat>-34.488</geo:lat>
+        <geo:long>-109.4546</geo:long>
+      </geo:Point>
+      <georss:point>-34.488 -109.4546</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077404</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077404</gdacs:eventid>
+      <gdacs:episodeid>1113677</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5">Magnitude 5M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Southern East Pacific Rise</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.7M, Depth:38.1km) in New Zealand 29/12/2015 23:36 UTC, 268502 people within 100km.</title>
+      <description>On 12/29/2015 11:36:18 PM, an earthquake occurred in New Zealand potentially affecting 268502 people within 100km. The earthquake had Magnitude 4.7M, Depth:38.1km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113666_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077393</link>
+      <pubDate>Tue, 29 Dec 2015 23:36:18 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 23:36:18 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 23:36:18 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077393</guid>
+      <geo:Point>
+        <geo:lat>-40.626</geo:lat>
+        <geo:long>176.0777</geo:long>
+      </geo:Point>
+      <georss:point>-40.626 176.0777</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077393</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077393</gdacs:eventid>
+      <gdacs:episodeid>1113666</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:38.1km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="268502">268502 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>New Zealand</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.8M, Depth:15.41km) in Southern East Pacific Rise 29/12/2015 20:25 UTC, No people within 100km.</title>
+      <description>On 12/29/2015 8:25:11 PM, an earthquake occurred in Southern East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 4.8M, Depth:15.41km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113659_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077391</link>
+      <pubDate>Tue, 29 Dec 2015 20:25:11 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 20:25:11 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 20:25:11 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077391</guid>
+      <geo:Point>
+        <geo:lat>-34.7205</geo:lat>
+        <geo:long>-109.595</geo:long>
+      </geo:Point>
+      <georss:point>-34.7205 -109.595</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077391</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077391</gdacs:eventid>
+      <gdacs:episodeid>1113659</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.8">Magnitude 4.8M, Depth:15.41km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Southern East Pacific Rise</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:39.98km) in Indonesia 29/12/2015 17:38 UTC, No people within 100km.</title>
+      <description>On 12/29/2015 5:38:23 PM, an earthquake occurred in Indonesia potentially affecting No people within 100km. The earthquake had Magnitude 4.7M, Depth:39.98km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113657_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077373</link>
+      <pubDate>Tue, 29 Dec 2015 17:38:23 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 17:38:23 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 17:38:23 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077373</guid>
+      <geo:Point>
+        <geo:lat>-10.0147</geo:lat>
+        <geo:long>114.2454</geo:long>
+      </geo:Point>
+      <georss:point>-10.0147 114.2454</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077373</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077373</gdacs:eventid>
+      <gdacs:episodeid>1113657</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:39.98km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:35.35km) in Indonesia 29/12/2015 15:20 UTC, No people within 100km.</title>
+      <description>On 12/29/2015 3:20:58 PM, an earthquake occurred in Indonesia potentially affecting No people within 100km. The earthquake had Magnitude 4.7M, Depth:35.35km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113645_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077367</link>
+      <pubDate>Tue, 29 Dec 2015 15:20:58 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 15:20:58 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 15:20:58 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077367</guid>
+      <geo:Point>
+        <geo:lat>-9.2503</geo:lat>
+        <geo:long>108.84</geo:long>
+      </geo:Point>
+      <georss:point>-9.2503 108.84</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077367</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077367</gdacs:eventid>
+      <gdacs:episodeid>1113645</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:35.35km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.6M, Depth:9.67km) in Greece 29/12/2015 14:15 UTC, About 69121 people within 100km.</title>
+      <description>On 12/29/2015 2:15:53 PM, an earthquake occurred in Greece potentially affecting About 69121 people within 100km. The earthquake had Magnitude 4.6M, Depth:9.67km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113638_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077360</link>
+      <pubDate>Tue, 29 Dec 2015 14:15:53 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 14:15:53 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 14:15:53 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077360</guid>
+      <geo:Point>
+        <geo:lat>37.5029</geo:lat>
+        <geo:long>19.9486</geo:long>
+      </geo:Point>
+      <georss:point>37.5029 19.9486</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077360</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077360</gdacs:eventid>
+      <gdacs:episodeid>1113638</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:9.67km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="69121">About 69121 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Greece</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:35.21km) in Indonesia 29/12/2015 12:19 UTC, No people within 100km.</title>
+      <description>On 12/29/2015 12:19:40 PM, an earthquake occurred in Indonesia potentially affecting No people within 100km. The earthquake had Magnitude 4.7M, Depth:35.21km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113593_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077350</link>
+      <pubDate>Tue, 29 Dec 2015 12:19:40 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 12:19:40 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 12:19:40 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077350</guid>
+      <geo:Point>
+        <geo:lat>-9.2806</geo:lat>
+        <geo:long>108.8858</geo:long>
+      </geo:Point>
+      <georss:point>-9.2806 108.8858</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077350</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077350</gdacs:eventid>
+      <gdacs:episodeid>1113593</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:35.21km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.87M, Depth:16.86km) in United States 29/12/2015 03:35 UTC, About 38240 people within 100km.</title>
+      <description>On 12/29/2015 3:35:28 AM, an earthquake occurred in United States potentially affecting About 38240 people within 100km. The earthquake had Magnitude 4.87M, Depth:16.86km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113667_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077325</link>
+      <pubDate>Tue, 29 Dec 2015 03:35:28 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 03:35:28 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 03:35:28 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077325</guid>
+      <geo:Point>
+        <geo:lat>41.0703333</geo:lat>
+        <geo:long>-125.286</geo:long>
+      </geo:Point>
+      <georss:point>41.0703333 -125.286</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077325</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077325</gdacs:eventid>
+      <gdacs:episodeid>1113667</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.87">Magnitude 4.87M, Depth:16.86km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="38240">About 38240 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>United States</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.9M, Depth:12.91km) in Colombia 29/12/2015 02:54 UTC, 403523 people within 100km.</title>
+      <description>On 12/29/2015 2:54:07 AM, an earthquake occurred in Colombia potentially affecting 403523 people within 100km. The earthquake had Magnitude 4.9M, Depth:12.91km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113549_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077319</link>
+      <pubDate>Tue, 29 Dec 2015 02:54:07 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 02:54:07 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 02:54:07 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077319</guid>
+      <geo:Point>
+        <geo:lat>6.916</geo:lat>
+        <geo:long>-76.6304</geo:long>
+      </geo:Point>
+      <georss:point>6.916 -76.6304</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077319</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077319</gdacs:eventid>
+      <gdacs:episodeid>1113549</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:12.91km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="403523">403523 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Colombia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5.8M, Depth:28.68km) in Papua New Guinea 29/12/2015 01:51 UTC, 100473 people within 100km.</title>
+      <description>On 12/29/2015 1:51:41 AM, an earthquake occurred in Papua New Guinea potentially affecting 100473 people within 100km. The earthquake had Magnitude 5.8M, Depth:28.68km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113554_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077314</link>
+      <pubDate>Tue, 29 Dec 2015 01:51:41 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 01:51:41 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 01:51:41 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077314</guid>
+      <geo:Point>
+        <geo:lat>-6.2901</geo:lat>
+        <geo:long>154.7586</geo:long>
+      </geo:Point>
+      <georss:point>-6.2901 154.7586</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077314</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077314</gdacs:eventid>
+      <gdacs:episodeid>1113554</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.8">Magnitude 5.8M, Depth:28.68km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="100473">100473 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.7M, Depth:39.89km) in Pakistan 29/12/2015 00:07 UTC, 6480657 people within 100km.</title>
+      <description>On 12/29/2015 12:07:03 AM, an earthquake occurred in Pakistan potentially affecting 6480657 people within 100km. The earthquake had Magnitude 4.7M, Depth:39.89km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113533_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077310</link>
+      <pubDate>Tue, 29 Dec 2015 00:07:03 GMT</pubDate>
+      <gdacs:fromdate>Tue, 29 Dec 2015 00:07:03 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 29 Dec 2015 00:07:03 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077310</guid>
+      <geo:Point>
+        <geo:lat>34.988</geo:lat>
+        <geo:long>73.0646</geo:long>
+      </geo:Point>
+      <georss:point>34.988 73.0646</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077310</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077310</gdacs:eventid>
+      <gdacs:episodeid>1113533</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:39.89km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="6480657">6480657 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Pakistan</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5.1M, Depth:10km) in Central Mid-Atlantic Ridge 28/12/2015 19:24 UTC, No people within 100km.</title>
+      <description>On 12/28/2015 7:24:15 PM, an earthquake occurred in Central Mid-Atlantic Ridge potentially affecting No people within 100km. The earthquake had Magnitude 5.1M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113619_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077282</link>
+      <pubDate>Mon, 28 Dec 2015 19:24:15 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 19:24:15 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 19:24:15 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077282</guid>
+      <geo:Point>
+        <geo:lat>-0.5114</geo:lat>
+        <geo:long>-19.9955</geo:long>
+      </geo:Point>
+      <georss:point>-0.5114 -19.9955</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077282</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077282</gdacs:eventid>
+      <gdacs:episodeid>1113619</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.1">Magnitude 5.1M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Central Mid-Atlantic Ridge</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:23.26km) in China 28/12/2015 18:35 UTC, 202260 people within 100km.</title>
+      <description>On 12/28/2015 6:35:27 PM, an earthquake occurred in China potentially affecting 202260 people within 100km. The earthquake had Magnitude 4.7M, Depth:23.26km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113614_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077283</link>
+      <pubDate>Mon, 28 Dec 2015 18:35:27 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 18:35:27 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 18:35:27 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077283</guid>
+      <geo:Point>
+        <geo:lat>23.8325</geo:lat>
+        <geo:long>122.5518</geo:long>
+      </geo:Point>
+      <georss:point>23.8325 122.5518</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077283</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077283</gdacs:eventid>
+      <gdacs:episodeid>1113614</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:23.26km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="202260">202260 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>China</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.6M, Depth:127.39km) in Indonesia 28/12/2015 17:31 UTC, 279193 people within 100km.</title>
+      <description>On 12/28/2015 5:31:15 PM, an earthquake occurred in Indonesia potentially affecting 279193 people within 100km. The earthquake had Magnitude 4.6M, Depth:127.39km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113612_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077365</link>
+      <pubDate>Mon, 28 Dec 2015 17:31:15 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 17:31:15 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 17:31:15 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077365</guid>
+      <geo:Point>
+        <geo:lat>1.8295</geo:lat>
+        <geo:long>127.3066</geo:long>
+      </geo:Point>
+      <georss:point>1.8295 127.3066</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077365</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077365</gdacs:eventid>
+      <gdacs:episodeid>1113612</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:127.39km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="279193">279193 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.2M, Depth:56.69km) in Indonesia 28/12/2015 16:26 UTC, 517602 people within 100km.</title>
+      <description>On 12/28/2015 4:26:05 PM, an earthquake occurred in Indonesia potentially affecting 517602 people within 100km. The earthquake had Magnitude 5.2M, Depth:56.69km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113615_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077271</link>
+      <pubDate>Mon, 28 Dec 2015 16:26:05 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 16:26:05 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 16:26:05 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077271</guid>
+      <geo:Point>
+        <geo:lat>-3.7636</geo:lat>
+        <geo:long>128.3262</geo:long>
+      </geo:Point>
+      <georss:point>-3.7636 128.3262</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077271</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077271</gdacs:eventid>
+      <gdacs:episodeid>1113615</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.2">Magnitude 5.2M, Depth:56.69km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="517602">517602 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5.2M, Depth:10km) in Papua New Guinea 28/12/2015 14:39 UTC, About 15162 people within 100km.</title>
+      <description>On 12/28/2015 2:39:27 PM, an earthquake occurred in Papua New Guinea potentially affecting About 15162 people within 100km. The earthquake had Magnitude 5.2M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113519_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077272</link>
+      <pubDate>Mon, 28 Dec 2015 14:39:27 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 14:39:27 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 14:39:27 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077272</guid>
+      <geo:Point>
+        <geo:lat>-5.1877</geo:lat>
+        <geo:long>152.8563</geo:long>
+      </geo:Point>
+      <georss:point>-5.1877 152.8563</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077272</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077272</gdacs:eventid>
+      <gdacs:episodeid>1113519</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.2">Magnitude 5.2M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="15162">About 15162 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.6M, Depth:4.5km) in Chile 28/12/2015 14:36 UTC, 347090 people within 100km.</title>
+      <description>On 12/28/2015 2:36:44 PM, an earthquake occurred in Chile potentially affecting 347090 people within 100km. The earthquake had Magnitude 4.6M, Depth:4.5km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113518_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077263</link>
+      <pubDate>Mon, 28 Dec 2015 14:36:44 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 14:36:44 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 14:36:44 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077263</guid>
+      <geo:Point>
+        <geo:lat>-29.3282</geo:lat>
+        <geo:long>-71.9912</geo:long>
+      </geo:Point>
+      <georss:point>-29.3282 -71.9912</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077263</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077263</gdacs:eventid>
+      <gdacs:episodeid>1113518</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:4.5km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="347090">347090 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Chile</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.6M, Depth:106.87km) in Vanuatu 28/12/2015 14:20 UTC, About 51910 people within 100km.</title>
+      <description>On 12/28/2015 2:20:30 PM, an earthquake occurred in Vanuatu potentially affecting About 51910 people within 100km. The earthquake had Magnitude 4.6M, Depth:106.87km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113515_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077295</link>
+      <pubDate>Mon, 28 Dec 2015 14:20:30 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 14:20:30 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 14:20:30 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077295</guid>
+      <geo:Point>
+        <geo:lat>-17.958</geo:lat>
+        <geo:long>168.5649</geo:long>
+      </geo:Point>
+      <georss:point>-17.958 168.5649</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077295</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077295</gdacs:eventid>
+      <gdacs:episodeid>1113515</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:106.87km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="51910">About 51910 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Vanuatu</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.8M, Depth:10km) in Tonga 28/12/2015 14:09 UTC, No people within 100km.</title>
+      <description>On 12/28/2015 2:09:01 PM, an earthquake occurred in Tonga potentially affecting No people within 100km. The earthquake had Magnitude 4.8M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113509_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077260</link>
+      <pubDate>Mon, 28 Dec 2015 14:09:01 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 14:09:01 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 14:09:01 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077260</guid>
+      <geo:Point>
+        <geo:lat>-17.5858</geo:lat>
+        <geo:long>-172.854</geo:long>
+      </geo:Point>
+      <georss:point>-17.5858 -172.854</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077260</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077260</gdacs:eventid>
+      <gdacs:episodeid>1113509</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.8">Magnitude 4.8M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Tonga</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:49.77km) in United States 28/12/2015 07:08 UTC, No people within 100km.</title>
+      <description>On 12/28/2015 7:08:31 AM, an earthquake occurred in United States potentially affecting No people within 100km. The earthquake had Magnitude 4.9M, Depth:49.77km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113436_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077234</link>
+      <pubDate>Mon, 28 Dec 2015 07:08:31 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 07:08:31 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 07:08:31 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077234</guid>
+      <geo:Point>
+        <geo:lat>51.1321</geo:lat>
+        <geo:long>179.4574</geo:long>
+      </geo:Point>
+      <georss:point>51.1321 179.4574</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077234</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077234</gdacs:eventid>
+      <gdacs:episodeid>1113436</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:49.77km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>United States</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5.6M, Depth:152.87km) in Martinique 28/12/2015 06:55 UTC, 587508 people within 100km.</title>
+      <description>On 12/28/2015 6:55:30 AM, an earthquake occurred in Martinique potentially affecting 587508 people within 100km. The earthquake had Magnitude 5.6M, Depth:152.87km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113433_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077233</link>
+      <pubDate>Mon, 28 Dec 2015 06:55:30 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 06:55:30 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 06:55:30 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077233</guid>
+      <geo:Point>
+        <geo:lat>14.5934</geo:lat>
+        <geo:long>-61.3714</geo:long>
+      </geo:Point>
+      <georss:point>14.5934 -61.3714</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077233</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077233</gdacs:eventid>
+      <gdacs:episodeid>1113433</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.6">Magnitude 5.6M, Depth:152.87km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="587508">587508 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Martinique</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.6M, Depth:33.67km) in Philippines 28/12/2015 01:31 UTC, 949610 people within 100km.</title>
+      <description>On 12/28/2015 1:31:17 AM, an earthquake occurred in Philippines potentially affecting 949610 people within 100km. The earthquake had Magnitude 4.6M, Depth:33.67km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113415_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077217</link>
+      <pubDate>Mon, 28 Dec 2015 01:31:17 GMT</pubDate>
+      <gdacs:fromdate>Mon, 28 Dec 2015 01:31:17 GMT</gdacs:fromdate>
+      <gdacs:todate>Mon, 28 Dec 2015 01:31:17 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077217</guid>
+      <geo:Point>
+        <geo:lat>6.1395</geo:lat>
+        <geo:long>126.1616</geo:long>
+      </geo:Point>
+      <georss:point>6.1395 126.1616</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077217</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077217</gdacs:eventid>
+      <gdacs:episodeid>1113415</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:33.67km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="949610">949610 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Philippines</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.5M, Depth:32.92km) in Chile 27/12/2015 23:47 UTC, 178740 people within 100km.</title>
+      <description>On 12/27/2015 11:47:09 PM, an earthquake occurred in Chile potentially affecting 178740 people within 100km. The earthquake had Magnitude 4.5M, Depth:32.92km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113409_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077214</link>
+      <pubDate>Sun, 27 Dec 2015 23:47:09 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 23:47:09 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 23:47:09 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077214</guid>
+      <geo:Point>
+        <geo:lat>-31.7635</geo:lat>
+        <geo:long>-71.741</geo:long>
+      </geo:Point>
+      <georss:point>-31.7635 -71.741</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077214</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077214</gdacs:eventid>
+      <gdacs:episodeid>1113409</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.5">Magnitude 4.5M, Depth:32.92km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="178740">178740 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Chile</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:10km) in Mexico 27/12/2015 19:24 UTC, No people within 100km.</title>
+      <description>On 12/27/2015 7:24:56 PM, an earthquake occurred in Mexico potentially affecting No people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113382_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077193</link>
+      <pubDate>Sun, 27 Dec 2015 19:24:56 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 19:24:56 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 19:24:56 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077193</guid>
+      <geo:Point>
+        <geo:lat>25.6917</geo:lat>
+        <geo:long>-120.9304</geo:long>
+      </geo:Point>
+      <georss:point>25.6917 -120.9304</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077193</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077193</gdacs:eventid>
+      <gdacs:episodeid>1113382</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Mexico</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.5M, Depth:15.46km) in Kazakhstan 27/12/2015 18:39 UTC, About 83043 people within 100km.</title>
+      <description>On 12/27/2015 6:39:05 PM, an earthquake occurred in Kazakhstan potentially affecting About 83043 people within 100km. The earthquake had Magnitude 4.5M, Depth:15.46km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113383_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077187</link>
+      <pubDate>Sun, 27 Dec 2015 18:39:05 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 18:39:05 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 18:39:05 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077187</guid>
+      <geo:Point>
+        <geo:lat>48.4587</geo:lat>
+        <geo:long>83.9695</geo:long>
+      </geo:Point>
+      <georss:point>48.4587 83.9695</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077187</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077187</gdacs:eventid>
+      <gdacs:episodeid>1113383</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.5">Magnitude 4.5M, Depth:15.46km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="83043">About 83043 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Kazakhstan</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.6M, Depth:42.41km) in Papua New Guinea 27/12/2015 17:31 UTC, About 5170 people within 100km.</title>
+      <description>On 12/27/2015 5:31:11 PM, an earthquake occurred in Papua New Guinea potentially affecting About 5170 people within 100km. The earthquake had Magnitude 4.6M, Depth:42.41km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113391_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077199</link>
+      <pubDate>Sun, 27 Dec 2015 17:31:11 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 17:31:11 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 17:31:11 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077199</guid>
+      <geo:Point>
+        <geo:lat>-6.0989</geo:lat>
+        <geo:long>152.4404</geo:long>
+      </geo:Point>
+      <georss:point>-6.0989 152.4404</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077199</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077199</gdacs:eventid>
+      <gdacs:episodeid>1113391</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:42.41km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="5170">About 5170 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:10km) in Solomon Islands 27/12/2015 16:50 UTC, About 42009 people within 100km.</title>
+      <description>On 12/27/2015 4:50:00 PM, an earthquake occurred in Solomon Islands potentially affecting About 42009 people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113366_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077179</link>
+      <pubDate>Sun, 27 Dec 2015 16:50:00 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 16:50:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 16:50:00 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077179</guid>
+      <geo:Point>
+        <geo:lat>-9.1005</geo:lat>
+        <geo:long>158.3165</geo:long>
+      </geo:Point>
+      <georss:point>-9.1005 158.3165</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077179</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077179</gdacs:eventid>
+      <gdacs:episodeid>1113366</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="42009">About 42009 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Solomon Islands</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.5M, Depth:123.6km) in Chile 27/12/2015 16:22 UTC, 143777 people within 100km.</title>
+      <description>On 12/27/2015 4:22:30 PM, an earthquake occurred in Chile potentially affecting 143777 people within 100km. The earthquake had Magnitude 4.5M, Depth:123.6km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113368_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077176</link>
+      <pubDate>Sun, 27 Dec 2015 16:22:30 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 16:22:30 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 16:22:30 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077176</guid>
+      <geo:Point>
+        <geo:lat>-21.682</geo:lat>
+        <geo:long>-68.456</geo:long>
+      </geo:Point>
+      <georss:point>-21.682 -68.456</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077176</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077176</gdacs:eventid>
+      <gdacs:episodeid>1113368</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.5">Magnitude 4.5M, Depth:123.6km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="143777">143777 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Chile</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.8M, Depth:10km) in Southern East Pacific Rise 27/12/2015 15:19 UTC, No people within 100km.</title>
+      <description>On 12/27/2015 3:19:48 PM, an earthquake occurred in Southern East Pacific Rise potentially affecting No people within 100km. The earthquake had Magnitude 4.8M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113360_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077178</link>
+      <pubDate>Sun, 27 Dec 2015 15:19:48 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 15:19:48 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 15:19:48 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077178</guid>
+      <geo:Point>
+        <geo:lat>-33.0532</geo:lat>
+        <geo:long>-108.8518</geo:long>
+      </geo:Point>
+      <georss:point>-33.0532 -108.8518</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077178</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077178</gdacs:eventid>
+      <gdacs:episodeid>1113360</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.8">Magnitude 4.8M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Southern East Pacific Rise</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.5M, Depth:195km) in Argentina 27/12/2015 12:28 UTC, About 12561 people within 100km.</title>
+      <description>On 12/27/2015 12:28:50 PM, an earthquake occurred in Argentina potentially affecting About 12561 people within 100km. The earthquake had Magnitude 4.5M, Depth:195km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113336_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077156</link>
+      <pubDate>Sun, 27 Dec 2015 12:28:50 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 12:28:50 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 12:28:50 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077156</guid>
+      <geo:Point>
+        <geo:lat>-23.1601</geo:lat>
+        <geo:long>-66.7444</geo:long>
+      </geo:Point>
+      <georss:point>-23.1601 -66.7444</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077156</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077156</gdacs:eventid>
+      <gdacs:episodeid>1113336</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.5">Magnitude 4.5M, Depth:195km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="12561">About 12561 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Argentina</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 4.6M, Depth:75.1km) in Philippines 27/12/2015 10:13 UTC, 4925838 people within 100km.</title>
+      <description>On 12/27/2015 10:13:36 AM, an earthquake occurred in Philippines potentially affecting 4925838 people within 100km. The earthquake had Magnitude 4.6M, Depth:75.1km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113323_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077147</link>
+      <pubDate>Sun, 27 Dec 2015 10:13:36 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 10:13:36 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 10:13:36 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077147</guid>
+      <geo:Point>
+        <geo:lat>6.3404</geo:lat>
+        <geo:long>125.4656</geo:long>
+      </geo:Point>
+      <georss:point>6.3404 125.4656</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077147</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077147</gdacs:eventid>
+      <gdacs:episodeid>1113323</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.6">Magnitude 4.6M, Depth:75.1km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="4925838">4925838 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Philippines</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:572.57km) in Tonga 27/12/2015 08:06 UTC, About 1545 people within 100km.</title>
+      <description>On 12/27/2015 8:06:02 AM, an earthquake occurred in Tonga potentially affecting About 1545 people within 100km. The earthquake had Magnitude 4.9M, Depth:572.57km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113310_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077137</link>
+      <pubDate>Sun, 27 Dec 2015 08:06:02 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 08:06:02 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 08:06:02 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077137</guid>
+      <geo:Point>
+        <geo:lat>-20.9206</geo:lat>
+        <geo:long>-178.745</geo:long>
+      </geo:Point>
+      <georss:point>-20.9206 -178.745</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077137</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077137</gdacs:eventid>
+      <gdacs:episodeid>1113310</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:572.57km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="1545">About 1545 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Tonga</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:30.12km) in Japan 27/12/2015 06:21 UTC, About 90655 people within 100km.</title>
+      <description>On 12/27/2015 6:21:37 AM, an earthquake occurred in Japan potentially affecting About 90655 people within 100km. The earthquake had Magnitude 4.7M, Depth:30.12km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113303_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077133</link>
+      <pubDate>Sun, 27 Dec 2015 06:21:37 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 06:21:37 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 06:21:37 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077133</guid>
+      <geo:Point>
+        <geo:lat>24.2067</geo:lat>
+        <geo:long>125.152</geo:long>
+      </geo:Point>
+      <georss:point>24.2067 125.152</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077133</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077133</gdacs:eventid>
+      <gdacs:episodeid>1113303</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:30.12km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="90655">About 90655 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Japan</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:109.62km) in Papua New Guinea 27/12/2015 05:23 UTC, About 63922 people within 100km.</title>
+      <description>On 12/27/2015 5:23:27 AM, an earthquake occurred in Papua New Guinea potentially affecting About 63922 people within 100km. The earthquake had Magnitude 4.7M, Depth:109.62km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113297_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077129</link>
+      <pubDate>Sun, 27 Dec 2015 05:23:27 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 05:23:27 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 05:23:27 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077129</guid>
+      <geo:Point>
+        <geo:lat>-5.8894</geo:lat>
+        <geo:long>149.0208</geo:long>
+      </geo:Point>
+      <georss:point>-5.8894 149.0208</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077129</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077129</gdacs:eventid>
+      <gdacs:episodeid>1113297</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:109.62km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="63922">About 63922 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:10km) in Tonga 27/12/2015 01:13 UTC, No people within 100km.</title>
+      <description>On 12/27/2015 1:13:20 AM, an earthquake occurred in Tonga potentially affecting No people within 100km. The earthquake had Magnitude 4.9M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113285_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077116</link>
+      <pubDate>Sun, 27 Dec 2015 01:13:20 GMT</pubDate>
+      <gdacs:fromdate>Sun, 27 Dec 2015 01:13:20 GMT</gdacs:fromdate>
+      <gdacs:todate>Sun, 27 Dec 2015 01:13:20 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077116</guid>
+      <geo:Point>
+        <geo:lat>-23.1131</geo:lat>
+        <geo:long>-174.5632</geo:long>
+      </geo:Point>
+      <georss:point>-23.1131 -174.5632</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077116</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077116</gdacs:eventid>
+      <gdacs:episodeid>1113285</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Tonga</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.7M, Depth:645.36km) in Vanuatu 26/12/2015 22:53 UTC, No people within 100km.</title>
+      <description>On 12/26/2015 10:53:18 PM, an earthquake occurred in Vanuatu potentially affecting No people within 100km. The earthquake had Magnitude 4.7M, Depth:645.36km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113257_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077092</link>
+      <pubDate>Sat, 26 Dec 2015 22:53:18 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 22:53:18 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 22:53:18 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077092</guid>
+      <geo:Point>
+        <geo:lat>-12.8493</geo:lat>
+        <geo:long>169.4005</geo:long>
+      </geo:Point>
+      <georss:point>-12.8493 169.4005</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077092</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077092</gdacs:eventid>
+      <gdacs:episodeid>1113257</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.7">Magnitude 4.7M, Depth:645.36km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="0">No people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Vanuatu</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.2M, Depth:72.68km) in Philippines 26/12/2015 22:11 UTC, 726762 people within 100km.</title>
+      <description>On 12/26/2015 10:11:18 PM, an earthquake occurred in Philippines potentially affecting 726762 people within 100km. The earthquake had Magnitude 5.2M, Depth:72.68km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113254_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077088</link>
+      <pubDate>Sat, 26 Dec 2015 22:11:18 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 22:11:18 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 22:11:18 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077088</guid>
+      <geo:Point>
+        <geo:lat>9.963</geo:lat>
+        <geo:long>126.1647</geo:long>
+      </geo:Point>
+      <georss:point>9.963 126.1647</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077088</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077088</gdacs:eventid>
+      <gdacs:episodeid>1113254</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.2">Magnitude 5.2M, Depth:72.68km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="726762">726762 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Philippines</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5.1M, Depth:10km) in Chile 26/12/2015 17:59 UTC, About 73919 people within 100km.</title>
+      <description>On 12/26/2015 5:59:37 PM, an earthquake occurred in Chile potentially affecting About 73919 people within 100km. The earthquake had Magnitude 5.1M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113235_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077074</link>
+      <pubDate>Sat, 26 Dec 2015 17:59:37 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 17:59:37 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 17:59:37 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077074</guid>
+      <geo:Point>
+        <geo:lat>-31.7566</geo:lat>
+        <geo:long>-72.0776</geo:long>
+      </geo:Point>
+      <georss:point>-31.7566 -72.0776</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077074</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077074</gdacs:eventid>
+      <gdacs:episodeid>1113235</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.1">Magnitude 5.1M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="73919">About 73919 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Chile</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 5M, Depth:11.6km) in Chile 26/12/2015 17:58 UTC, About 68591 people within 100km.</title>
+      <description>On 12/26/2015 5:58:08 PM, an earthquake occurred in Chile potentially affecting About 68591 people within 100km. The earthquake had Magnitude 5M, Depth:11.6km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113234_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077073</link>
+      <pubDate>Sat, 26 Dec 2015 17:58:08 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 17:58:08 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 17:58:08 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077073</guid>
+      <geo:Point>
+        <geo:lat>-31.7491</geo:lat>
+        <geo:long>-72.1556</geo:long>
+      </geo:Point>
+      <georss:point>-31.7491 -72.1556</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077073</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077073</gdacs:eventid>
+      <gdacs:episodeid>1113234</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5">Magnitude 5M, Depth:11.6km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="68591">About 68591 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Chile</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.1M, Depth:10km) in Greece 26/12/2015 11:00 UTC, About 21350 people within 100km.</title>
+      <description>On 12/26/2015 11:00:49 AM, an earthquake occurred in Greece potentially affecting About 21350 people within 100km. The earthquake had Magnitude 5.1M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113186_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077035</link>
+      <pubDate>Sat, 26 Dec 2015 11:00:49 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 11:00:49 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 11:00:49 GMT</gdacs:todate>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1077035</guid>
+      <geo:Point>
+        <geo:lat>35.4578</geo:lat>
+        <geo:long>27.4127</geo:long>
+      </geo:Point>
+      <georss:point>35.4578 27.4127</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077035</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077035</gdacs:eventid>
+      <gdacs:episodeid>1113186</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.1">Magnitude 5.1M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="21350">About 21350 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Greece</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+    <item>
+      <title>White earthquake alert (Magnitude 4.9M, Depth:165.35km) in Indonesia 26/12/2015 06:44 UTC, About 23065 people within 100km.</title>
+      <description>On 12/26/2015 6:44:42 AM, an earthquake occurred in Indonesia potentially affecting About 23065 people within 100km. The earthquake had Magnitude 4.9M, Depth:165.35km.</description>
+      <enclosure type="image/png" length="1" url="http://dma.gdacs.org/saved/gdacs/eq/eq1113159_1.png" />
+      <link>http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1077017</link>
+      <pubDate>Sat, 26 Dec 2015 06:44:42 GMT</pubDate>
+      <gdacs:fromdate>Sat, 26 Dec 2015 06:44:42 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 26 Dec 2015 06:44:42 GMT</gdacs:todate>
+      <dc:subject>EQ0</dc:subject>
+      <guid isPermaLink="false">EQ1077017</guid>
+      <geo:Point>
+        <geo:lat>-7.1362</geo:lat>
+        <geo:long>129.1774</geo:long>
+      </geo:Point>
+      <georss:point>-7.1362 129.1774</georss:point>
+      <gdacs:cap>http://www.gdacs.org/cap.aspx?eventtype=EQ&amp;eventid=1077017</gdacs:cap>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>White</gdacs:alertlevel>
+      <gdacs:eventname />
+      <gdacs:eventid>1077017</gdacs:eventid>
+      <gdacs:episodeid>1113159</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="4.9">Magnitude 4.9M, Depth:165.35km</gdacs:severity>
+      <gdacs:population unit="Pop100" value="23065">About 23065 people within 100km</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3 />
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources />
+    </item>
+  </channel>
+</rss><!--End 12/30/2015 5:39:32 AM-->
